@@ -14,3 +14,5 @@ Bool `_RotatingPlatform_CanStop_` `True|False`.
 This variable is going to be assigned `At the Begin of the scene` to all instances of the object. Default value(True).
 In game you can use this variable to control if the moving platform is allowed to be stop or not.
 
+### Video Tutorial
+[Tutorial](https://www.youtube.com/watch?v=_JQuBFeIYUY)
